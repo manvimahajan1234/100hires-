@@ -4,6 +4,8 @@
 - Cursor IDE (latest version - redesigned agent-based interface)
 - Git (via Apple Command Line Developer Tools)
 - GitHub account created
+- Claude Code for VS Code (by Anthropic) - installed via Extensions marketplace
+- Codex by OpenAI - installed via Extensions marketplace
 
 ## Steps Completed
 1. Installed Cursor IDE from cursor.com
